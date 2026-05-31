@@ -17,5 +17,21 @@ Guess the number!
 ### ✂️ Rock Paper Scissors
 Classic game!
 
+### 📝 Todo App
+A simple todo app to manage your tasks!
+- Add tasks
+- View tasks
+- Complete tasks
+- Delete tasks
+- Auto save!
+
+### ⌨️ Typing Speed Test
+Test your typing speed and accuracy!
+- WPM calculation
+- Accuracy check
+- Highest score tracking
+- Play again option
+- different sentences
+
 ## 🛠️ Requirements:
 pip install requests
